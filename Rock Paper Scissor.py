@@ -1,3 +1,9 @@
+# Rock Paper Scissor Game
+# In this game, you type your choice: rock, paper, or scissors.
+# The computer will randomly pick its own choice, and then the winner is decided using the classic rules: 
+# rock beats scissors, scissors beats paper, and paper beats rock. 
+# If both choices are the same, the game ends in a tie.
+
 import random
 
 # Function to display instructions
@@ -72,3 +78,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
